@@ -1,1 +1,1 @@
-An ecommerce website for cool merch!
+This projetc is incomplete. It will be finished shortly!
